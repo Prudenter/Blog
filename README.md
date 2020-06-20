@@ -5,5 +5,7 @@
 
 ## 成长总结
 
+1. [总结下最近的工作]: ./articles/growthSummary/总结下最近的工作.md
+
 ## 学习笔记
 
