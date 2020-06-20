@@ -4,6 +4,7 @@
 ## 技术分享
 
 ## 成长总结
-[总结下最近的工作]:https://github.com/Prudenter/Blog/articles/growthSummary/总结下最近的工作.md
+1. [总结下最近的工作]:(https://github.com/Prudenter/Blog/articles/growthSummary/总结下最近的工作.md)
+
 ## 学习笔记
 
