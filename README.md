@@ -4,8 +4,6 @@
 ## 技术分享
 
 ## 成长总结
-
-1.[总结下最近的工作]:https://github.com/Prudenter/Blog/blob/master/articles/growthSummary/%E6%80%BB%E7%BB%93%E4%B8%8B%E6%9C%80%E8%BF%91%E7%9A%84%E5%B7%A5%E4%BD%9C.md
-
+[总结下最近的工作]:https://github.com/Prudenter/Blog/articles/growthSummary/总结下最近的工作.md
 ## 学习笔记
 
